@@ -20,6 +20,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+  <i class="devicon-javascript-plain colored"></i>
+
      </p>
 
 <br>
