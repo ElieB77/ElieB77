@@ -5,4 +5,4 @@
 
 <br>
 
-<p align="center"><img width='200' src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p align="center"><img width='200' src="https://ibb.co/SJMq2CQ" alt="elie-bissor" /></p>
