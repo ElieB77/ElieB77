@@ -1,4 +1,4 @@
-<h1>😎 Fullstack Developer From Paris 🇫🇷</h1>
+<h1>Fullstack Developer From Paris🇷</h1>
 
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=ElieB77&count_private=true&show_icons=true&include_all_commits=true" />
