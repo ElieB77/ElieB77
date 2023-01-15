@@ -13,7 +13,7 @@ I'm Elie Bissor, Junior Developer.<br>
 - 👨🏼‍🎓 Bootcamp graduate.
 - 💼 I'm currently looking for a new job.
 - 💻 I'm currently developing an e-commerce website.
-- 🌱 I'm currently learning MySQL and technical writing.
+- 🌱 I'm currently technical writing.
 - 📚 🥊 Avid reader & boxing practitioner.
 - 💬 Feel free to contact me if you have any questions.
 
