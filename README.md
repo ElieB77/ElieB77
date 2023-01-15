@@ -4,6 +4,9 @@
     <a href="https://www.linkedin.com/in/elie-bissor/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+     <a href="https://discord.com/users/816668406475522068">
+      <img src="https://img.shields.io/badge/discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+    </a>
   </div>
       <img aling="center" src="https://komarev.com/ghpvc/?username=elieb77&style=flat-square&color=blue" alt=""/>
 </div>
