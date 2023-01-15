@@ -8,6 +8,15 @@
       <img aling="center" src="https://komarev.com/ghpvc/?username=elieb77&style=flat-square&color=blue" alt=""/>
 </div>
 
+Hey ! 👋 <br>
+I'm Elie Bissor, Junior Developer.<br>
+- 👨🏼‍🎓 Bootcamp graduate.
+- 💼 I'm currently looking for a new job.
+- 💻 I'm currently developing an e-commerce website.
+- 🌱 I'm currently learning MySQL and technical writing.
+- 📚 🥊 Avid reader & boxing practitioner.
+- 💬 Feel free to contact me if you have any questions.
+
 <hr>
 
 #### 🛠 Skills
@@ -23,4 +32,3 @@ In progress ...
 #### 📉 Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElieB77&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElieB77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
