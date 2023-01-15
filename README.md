@@ -8,7 +8,7 @@
       <img aling="center" src="https://komarev.com/ghpvc/?username=elieb77&style=flat-square&color=blue" alt=""/>
 </div>
 
-Hey ! 👋 <br>
+Hey there ! 👋 <br>
 I'm Elie Bissor, Junior Developer.<br>
 - 👨🏼‍🎓 Bootcamp graduate.
 - 💼 I'm currently looking for a new job.
