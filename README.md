@@ -1,6 +1,11 @@
-<h1>Fullstack Developer From Paris</h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="200"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/elie-bissor/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+      <img aling="center" src="https://komarev.com/ghpvc/?username=elieb77&style=flat-square&color=blue" alt=""/>
+</div>
 
-<p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=ElieB77&count_private=true&show_icons=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElieB77&hide=TeX&layout=compact" />
-  </p>
+<hr>
