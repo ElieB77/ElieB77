@@ -35,3 +35,6 @@ In progress ...
 #### 📉 Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElieB77&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElieB77&layout=compact&theme=transparent)](https://github.com/ElieB77/github-readme-stats)
+
