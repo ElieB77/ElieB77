@@ -12,7 +12,7 @@
 </div>
 
 Hey there ! 👋 <br>
-I'm Elie Bissor, Junior Developer.<br>
+I'm Elie Bissor, Junior Javascript Developer.<br>
 - 👨🏼‍🎓 Bootcamp graduate.
 - 💼 I'm currently looking for a new job.
 - 💻 I'm currently developing an e-commerce website.
