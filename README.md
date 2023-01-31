@@ -13,7 +13,7 @@
 
 <br>
 Hi, my name is Elie Bissor, I'm a full-stack developer bootcamp-graduate with a focus on the Javascript environment. 👋<br><br>
-Code quality is key, so I put a lot of emphasis on producing clean and well-organized code to ensure that projects are easily maintainable and can be easily improved upon in the future.<br><br> I am also highly aware of the importance of continuous learning and staying up to date with new technologies and best practices, to make sure that my skills and knowledge are always current.<br><br><br>
+I put a lot of emphasis on producing clean and well-organized code to ensure that projects are easily maintainable and can be easily improved upon in the future.<br><br> I am also highly aware of the importance of continuous learning and staying up to date with new technologies and best practices, to make sure that my skills and knowledge are always current.<br><br><br>
 
 > "Clean code always looks like it was written by someone who cares"<br>
 > Robert C. Martin
