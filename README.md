@@ -26,7 +26,7 @@ I put a lot of emphasis on producing clean and well-organized code to ensure tha
 
 <hr>
 
-#### 📖 Latest Posts
+#### 📖 Blog
 In progress ...
 <hr>
 
