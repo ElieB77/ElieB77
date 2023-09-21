@@ -13,7 +13,7 @@
 
 <br>
 Hi, my name is Elie Bissor, I'm a full-stack developer bootcamp-graduate with a focus on the Javascript environment. <br><br>
-I put a lot of emphasis on producing clean and well-organized code to ensure that projects are maintainable and can be easily improved upon in the future.
+
 
 <hr>
 
