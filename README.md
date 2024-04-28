@@ -3,7 +3,7 @@
 • 👨🏻‍💻 I am a full stack developer <br>
 • 🌤️ I use Next.js, React, Typescript, and MongoDB daily <br>
 • 📚 I am currently learning Python <br>
-• 💻 Currently working on a gamified quiz app on the MERN Stack <br>
+• 💻 I am working on a gamified quiz app on the MERN Stack at the moment <br>
 • 📱 Follow me on Twitter [@elieb77](https://twitter.com/elieB77) <br>
 
 If you find value in my work, you can support my coffee supplies to fuel more code! ☕️<br><br>
