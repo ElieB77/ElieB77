@@ -1,6 +1,5 @@
 ## Hi, I'm Elie Bissor
 
 • 👨🏻‍💻 I am a full stack developer <br>
-• 🌤️ I use Next.js, React, Typescript, and MongoDB daily <br>
+• 🌤️ I use React, Node.js, Typescript, and MongoDB daily <br>
 • 📚 I am currently learning Python <br>
-• 💻 I am working on a gamified quiz app <br>
